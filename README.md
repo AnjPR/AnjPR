@@ -7,7 +7,7 @@
 
 <br>
 <br>
-<p align="left">
+<p align="right">
 <a href="https://github.com/Sre-n">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjPR&theme=tokyonight&layout=compact&" />
 </a>
