@@ -8,7 +8,7 @@
 <br>
 <br>
 <p align="right">
-<a href="https://github.com/Sre-n">
+<a href="https://github.com/AnjPR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjPR&theme=tokyonight&layout=compact&" />
 </a>
 </p>
