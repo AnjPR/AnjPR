@@ -1,6 +1,6 @@
 ### Hi there 👋
-###I'm Anjana Junior @ GECThrissur
-##💻Budding developer
+### I'm Anjana Junior @ GECThrissur
+## 💻Budding developer
 
 - 🌱 I’m currently learning Web Development...
 - 💬 Ask me about Python,Java,MySQL...
