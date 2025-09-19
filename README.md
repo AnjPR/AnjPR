@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Anjana Junior @ GECThrissur
+### I'm Anjana CSE graduate
 ## 💻Budding developer
 
 - 🌱 I’m currently learning Web Development...
